@@ -1,0 +1,24 @@
+{
+  "name": "doggocity_website",
+  "version": "1.0.0",
+  "description": "A landing page built with Tailwind CSS",
+  "main": "index.js",
+  "dependencies": {
+    "tailwindcss": "^1.8.13"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build:css": "tailwind build src/styles.css -o dist/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hakeemajibolu1/doggocity_website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hakeemajibolu1/doggocity_website/issues"
+  },
+  "homepage": "https://github.com/hakeemajibolu1/doggocity_website#readme"
+}

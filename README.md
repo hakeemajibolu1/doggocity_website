@@ -1,2 +1,2 @@
 # doggocity_website
-A landing page built with Tailwind CSS
+A landing web page built with Tailwind CSS
